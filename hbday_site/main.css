@@ -9,7 +9,7 @@ body{
 [class="main text"]{
   font-family: 'Calligraffitti', cursive;
   font-weight: 700;
-  font-size: 7rem;
+  font-size: 6rem;
   text-shadow: -15px 5px 20px #ced0d3;
   top: 5%;
   letter-spacing: 0.02em;
@@ -37,17 +37,21 @@ p{
     margin-bottom: 8%;
 }
 
+[class="pika"]{
+  max-width: 25em;  
+}
+
 [class="list"]{
-    max-width: 20em;
+    max-width: 25em;
     margin-top: 5%;
     margin-bottom: 5%;
 }
 
 [class="king"]{
   align-items: center;
-  width: 20em;
+  width: 25em;
 }
 
 [class="audio"]{
-  width: 20em;
+  width: 25em;
 }
