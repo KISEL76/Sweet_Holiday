@@ -1,7 +1,8 @@
 #slider_bl .wrapper {
     max-width: 40em;
-    margin: 1em auto;
-    position: relative
+    margin: auto;
+    position: relative;
+    margin-bottom: 3em;
 }
 
 #slider_bl input {

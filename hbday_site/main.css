@@ -29,7 +29,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 5%;
+    margin-bottom: 4%;
 }
 
 p{
@@ -39,7 +39,7 @@ p{
 
 [class="pika"]{
   max-width: 25em;
-  margin-left: 1em;
+  margin-left: 0.5em;
 }
 
 [class="list"]{
@@ -51,7 +51,7 @@ p{
 [class="king"]{
   align-items: center;
   width: 25em;
-  margin-left: 1em;
+  margin-left: 0.5em;
 }
 
 [class="audio"]{
