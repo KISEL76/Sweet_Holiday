@@ -38,16 +38,16 @@ p{
 }
 
 [class="list"]{
-    max-width: 30em;
+    max-width: 20em;
     margin-top: 5%;
     margin-bottom: 5%;
 }
 
 [class="king"]{
   align-items: center;
-  width: 30em;
+  width: 20em;
 }
 
 [class="audio"]{
-  width:30em;
+  width: 20em;
 }
